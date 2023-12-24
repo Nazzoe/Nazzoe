@@ -24,6 +24,10 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
   [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+  [![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
+
+
 
  ---
  
