@@ -10,6 +10,6 @@
 
 - 🔭 I’m currently working on Data Science and Machine Learning Projects
 - 🌱 I’m currently exploring technical content writing
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazycole@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/nazycole@gmail.com)
 - 😄 Pronouns: She/Her
 -->
