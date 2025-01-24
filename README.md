@@ -8,7 +8,6 @@
 
 - 🔭 I work on Data Science and Machine Learning Projects
 - 🌱 I’m currently exploring technical content writing
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazycole@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡: In my free time, I read articles on Medium and GeeksforGeeks.
 ---
