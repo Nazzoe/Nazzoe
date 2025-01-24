@@ -7,7 +7,7 @@
 ### 👩‍💻: About Me :
 
 - 🔭 I work on Data Science and Machine Learning Projects
-- 🌱 I also write technical contents and article publications in  peer-reviewed journals.
+- 🌱 I also write technical contents and research article publications in  peer-reviewed journals.
 - 😄 Pronouns: She/Her
 - ⚡: In my free time, I read articles on Medium and GeeksforGeeks.
 ---
